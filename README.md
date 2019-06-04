@@ -5,3 +5,5 @@ My goal for this project is to become familiar with the entire ML pipeline, from
 Currently, I will be using common datasets, like MINST, Fashion MINST, and Iris. I will later begin to use datasets from kaggle that have (slightly) more complicated data. After I will look for other, less clean data to practice data pre-processing on.
 
 Additionally, I will be learning and using common ML libraries like numpy, sklearn, pandas, etc. I want to gain familiarity with them and expect to use them for implementing many algorithms. I also want to learn about libraries for specific domains/algorithms like KGBoost, Catboost, etc.
+
+Lastly, I will be doing most of these projects in Google Colab, basically google's version of Jupyter Notebooks.
